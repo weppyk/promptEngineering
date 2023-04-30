@@ -1,0 +1,3 @@
+# Installation
+create file api_key.py and save your api from openai to variable apiKey
+apiKey = "sk-..."
